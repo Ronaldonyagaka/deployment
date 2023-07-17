@@ -1,5 +1,4 @@
 import streamlit as st
-import shap
 from predictor import main
 
 
