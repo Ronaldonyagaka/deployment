@@ -279,7 +279,7 @@ st.markdown(
     """
     <style>
     [class="StyledThumbValue css-1kx34wp ektn3o2"] {
-        color: black;
+        color: purple;
     }
     </style>
     """,
