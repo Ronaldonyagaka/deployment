@@ -275,7 +275,14 @@ st.markdown(
     """,
     unsafe_allow_html=True
 )
-     
+element_style1 = """
+<style>
+.class="StyledThumbValue css-1kx34wp ektn3o2" {
+    color: purple !important;
+}
+</style>
+"""
+st.markdown(element_style1, unsafe_allow_html=True)   
 def show_predict_page():
 # CSS styling for the element with class "StyledThumbValue css-1kx34wp ektn3o2"
     element_style = """
