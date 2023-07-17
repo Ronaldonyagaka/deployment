@@ -69,7 +69,7 @@ opacity: 1.0;
         unsafe_allow_html=True
         )
     
-    
+ 
 def page_info():
     page_bg_img1 = """
 <style>
@@ -275,8 +275,17 @@ st.markdown(
     """,
     unsafe_allow_html=True
 )
-       
+     
 def show_predict_page():
+# CSS styling for the element with class "StyledThumbValue css-1kx34wp ektn3o2"
+    element_style = """
+    <style>
+    .StyledThumbValue.css-1kx34wp.ektn3o2 {
+        color: purple !important;
+    }
+    </style>
+    """
+    st.markdown(element_style, unsafe_allow_html=True)
     st.markdown(page_bg_img1, unsafe_allow_html= True)
 
 
