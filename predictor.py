@@ -33,7 +33,7 @@ def page_home():
     
     page_bg_img = """
 <style>
-[class="stApp stAppEmbeddingId-rxxnu8qxie0a css-fg4pbf e14zl3901"] {
+[class="appview-container css-1wrcr25 e1g8pov66"] {
 background-image: url("https://www.investopedia.com/thmb/pxxo1p6473mB4XmnwmSeAUdunSQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1203763961-880a467befb64f39856f3fc7904ae12a.jpg");
 background-size: cover;
 opacity: 1.0;
