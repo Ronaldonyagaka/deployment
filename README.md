@@ -1,5 +1,4 @@
 # Overview
-OVERVIEW
 
 I've developed an advanced Credit Card Approver System with Streamlit, SHAP values, and data visualizations. This user-friendly system streamlines credit card approval with robust machine learning predictions and transparent SHAP explanations, while interactive visuals simplify understanding of decision factors.
 
